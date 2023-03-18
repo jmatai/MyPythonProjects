@@ -50,6 +50,7 @@ class Matrix:
 
 
 
+import numpy as np
 
 if __name__ == "__main__":
     A = Matrix(n=4, m=3, fill=1.0)
